@@ -4,4 +4,4 @@ function updateDateTime() {
   document.getElementById("currentDateTime").textContent = dateTimeString;
 }
 setInterval(updateDateTime, 1000); 
-updateDateTime();
+updateDateTim;
